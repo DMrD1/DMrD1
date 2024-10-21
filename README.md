@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmrd1&label=Profile%20views&color=0e75b6&style=flat" alt="dmrd1" /> </p>
 
-- 🔭 I’m currently working on [Better Blacket](https://github.com/DMrD1/BetterBlacket)
-
 - 🌱 I’m currently learning **JS, C, C++, and Python**
 
 - 📫 How to reach me **dmrd321@gmail.com**
